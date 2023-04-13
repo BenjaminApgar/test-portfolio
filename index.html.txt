@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Website</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Me</a>
+    </nav>
+  </header>
+  <section class="articles">
+    <article>
+      <img src="thumbnail1.jpg" alt="Article 1 Thumbnail">
+      <h3><a href="article1.html">Article 1 Title</a></h3>
+      <p>Article 1 description</p>
+    </article>
+    <article>
+      <img src="thumbnail2.jpg" alt="Article 2 Thumbnail">
+      <h3><a href="article2.html">Article 2 Title</a></h3>
+      <p>Article 2 description</p>
+    </article>
+  </section>
+</body>
+</html>
